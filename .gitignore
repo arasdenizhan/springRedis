@@ -36,3 +36,4 @@ build/
 mvnw
 mvnw.cmd
 *.yml
+*.conf
